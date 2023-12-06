@@ -1,0 +1,1575 @@
+.restoran-home {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.restoran-home .div {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1440px;
+  height: 6368px;
+  position: relative;
+}
+
+.restoran-home .overlap {
+  position: absolute;
+  width: 1440px;
+  height: 800px;
+  top: 1590px;
+  left: -13px;
+  background-color: #ffd07e;
+}
+
+.restoran-home .overlap-group {
+  position: absolute;
+  width: 643px;
+  height: 609px;
+  top: 140px;
+  left: 13px;
+}
+
+.restoran-home .screenshot {
+  position: absolute;
+  width: 602px;
+  height: 495px;
+  top: 0;
+  left: 41px;
+  object-fit: cover;
+}
+
+.restoran-home .rectangle {
+  width: 154px;
+  height: 117px;
+  top: 415px;
+  background-color: #ffd07e;
+  position: absolute;
+  left: 0;
+}
+
+.restoran-home .rolls {
+  width: 400px;
+  height: 399px;
+  top: 85px;
+  left: 144px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.restoran-home .element {
+  position: absolute;
+  width: 60px;
+  height: 162px;
+  top: 447px;
+  left: 50px;
+}
+
+.restoran-home .element-2 {
+  position: absolute;
+  width: 399px;
+  height: 194px;
+  top: 250px;
+  left: 765px;
+}
+
+.restoran-home .text-wrapper {
+  position: absolute;
+  width: 264px;
+  top: 0;
+  left: 0;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 700;
+  color: #20243d;
+  font-size: 52px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.restoran-home .lorem-ipsum-dolor {
+  width: 395px;
+  top: 113px;
+  left: 0;
+  font-weight: 400;
+  color: #20243d;
+  font-size: 20px;
+  position: absolute;
+  font-family: "Montserrat", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.restoran-home .view {
+  position: absolute;
+  width: 322px;
+  height: 65px;
+  top: 519px;
+  left: 765px;
+}
+
+.restoran-home .div-wrapper {
+  position: relative;
+  width: 320px;
+  height: 65px;
+  background-color: #20243d;
+  border-radius: 30px;
+}
+
+.restoran-home .text-wrapper-2 {
+  width: 140px;
+  top: 18px;
+  left: 90px;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 20px;
+  position: absolute;
+  font-family: "Montserrat", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.restoran-home .img {
+  position: absolute;
+  width: 67px;
+  height: 181px;
+  top: 30px;
+  left: 1346px;
+}
+
+.restoran-home .screenshot-2 {
+  top: 125px;
+  left: 711px;
+  position: absolute;
+  width: 168px;
+  height: 65px;
+  object-fit: cover;
+}
+
+.restoran-home .screenshot-3 {
+  width: 145px;
+  height: 197px;
+  top: 545px;
+  left: 1308px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.restoran-home .overlap-2 {
+  position: absolute;
+  width: 1440px;
+  height: 1593px;
+  top: 2391px;
+  left: 0;
+}
+
+.restoran-home .rectangle-2 {
+  width: 1440px;
+  height: 795px;
+  top: 0;
+  background-color: #20243d;
+  position: absolute;
+  left: 0;
+}
+
+.restoran-home .rectangle-3 {
+  width: 1440px;
+  height: 800px;
+  top: 793px;
+  background-color: #ffd07e;
+  position: absolute;
+  left: 0;
+}
+
+.restoran-home .overlap-group-wrapper {
+  position: absolute;
+  width: 324px;
+  height: 66px;
+  top: 1324px;
+  left: 135px;
+}
+
+.restoran-home .overlap-group-2 {
+  position: relative;
+  width: 322px;
+  height: 66px;
+  background-color: #20243d;
+  border-radius: 30px;
+}
+
+.restoran-home .text-wrapper-3 {
+  width: 127px;
+  top: 22px;
+  left: 98px;
+  position: absolute;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.restoran-home .element-3 {
+  position: absolute;
+  width: 60px;
+  height: 162px;
+  top: 1359px;
+  left: 1346px;
+}
+
+.restoran-home .screenshot-4 {
+  position: absolute;
+  width: 545px;
+  height: 317px;
+  top: 857px;
+  left: 861px;
+  object-fit: cover;
+}
+
+.restoran-home .rolls-2 {
+  width: 465px;
+  height: 464px;
+  top: 994px;
+  left: 885px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.restoran-home .element-4 {
+  position: absolute;
+  width: 414px;
+  height: 194px;
+  top: 1055px;
+  left: 140px;
+}
+
+.restoran-home .text-wrapper-4 {
+  width: 275px;
+  top: 0;
+  left: 0;
+  font-weight: 700;
+  color: #20243d;
+  font-size: 52px;
+  position: absolute;
+  font-family: "Montserrat", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.restoran-home .p {
+  width: 410px;
+  top: 116px;
+  left: 0;
+  font-weight: 300;
+  color: #20243d;
+  font-size: 21px;
+  position: absolute;
+  font-family: "Montserrat", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.restoran-home .element-5 {
+  position: absolute;
+  width: 733px;
+  height: 169px;
+  top: 95px;
+  left: 393px;
+}
+
+.restoran-home .text-wrapper-5 {
+  position: absolute;
+  width: 293px;
+  top: 0;
+  left: 218px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 45px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.restoran-home .lorem-ipsum-dolor-2 {
+  width: 729px;
+  top: 97px;
+  left: 0;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20px;
+  text-align: center;
+  position: absolute;
+  font-family: "Montserrat", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.restoran-home .screenshot-5 {
+  position: absolute;
+  width: 246px;
+  height: 198px;
+  top: 80px;
+  left: 1119px;
+  object-fit: cover;
+}
+
+.restoran-home .element-6 {
+  position: absolute;
+  width: 287px;
+  height: 287px;
+  top: 364px;
+  left: 135px;
+  border-radius: 143.5px;
+  border: 3px solid;
+  border-color: #ffffff;
+}
+
+.restoran-home .element-STORE {
+  position: absolute;
+  width: 169px;
+  top: 442px;
+  left: 194px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 52px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.restoran-home .span {
+  font-family: "Montserrat", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 52px;
+  letter-spacing: 0;
+}
+
+.restoran-home .text-wrapper-6 {
+  font-size: 55px;
+}
+
+.restoran-home .text-wrapper-7 {
+  font-size: 30px;
+}
+
+.restoran-home .overlap-wrapper {
+  position: absolute;
+  width: 289px;
+  height: 287px;
+  top: 364px;
+  left: 562px;
+}
+
+.restoran-home .overlap-3 {
+  position: relative;
+  width: 287px;
+  height: 287px;
+  border-radius: 143.5px;
+  border: 3px solid;
+  border-color: #ffffff;
+}
+
+.restoran-home .element-MENU {
+  position: absolute;
+  width: 196px;
+  top: 78px;
+  left: 42px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 52px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.restoran-home .element-7 {
+  position: absolute;
+  width: 289px;
+  height: 287px;
+  top: 364px;
+  left: 989px;
+}
+
+.restoran-home .element-CHEF {
+  position: absolute;
+  width: 186px;
+  top: 84px;
+  left: 47px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 52px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.restoran-home .screenshot-6 {
+  position: absolute;
+  width: 238px;
+  height: 120px;
+  top: 673px;
+  left: 270px;
+  object-fit: cover;
+}
+
+.restoran-home .screenshot-7 {
+  width: 193px;
+  height: 172px;
+  top: 1403px;
+  left: 550px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.restoran-home .element-8 {
+  position: absolute;
+  width: 162px;
+  height: 60px;
+  top: 67px;
+  left: 100px;
+}
+
+.restoran-home .element-9 {
+  position: absolute;
+  width: 162px;
+  height: 60px;
+  top: 668px;
+  left: 885px;
+}
+
+.restoran-home .image {
+  position: absolute;
+  width: 153px;
+  height: 51px;
+  top: 226px;
+  left: 100px;
+  object-fit: cover;
+}
+
+.restoran-home .image-2 {
+  position: absolute;
+  width: 143px;
+  height: 61px;
+  top: 675px;
+  left: 1229px;
+  object-fit: cover;
+}
+
+.restoran-home .element-10 {
+  position: absolute;
+  width: 162px;
+  height: 60px;
+  top: 838px;
+  left: 639px;
+}
+
+.restoran-home .overlap-4 {
+  position: absolute;
+  width: 1440px;
+  height: 1590px;
+  top: 0;
+  left: 0;
+  background-color: #20243d;
+}
+
+.restoran-home .overlap-5 {
+  position: absolute;
+  width: 1016px;
+  height: 53px;
+  top: 9px;
+  left: 0;
+}
+.overlap-5 .navbar a {
+  text-decoration: none; /* Убираем подчеркивание ссылок */
+  color: white;
+}
+
+
+.restoran-home .navbar {
+  position: absolute;
+  width: 926px;
+  height: 22px;
+  top: 24px;
+  left: 0; /* Используем left: 0; чтобы он начинался с края экрана */
+  margin-left: 90px; /* Оставляем расстояние от левого края экрана */
+}
+
+
+
+.restoran-home .text-wrapper-8 {
+  position: absolute;
+  width: 170px;
+  top: 1px;
+  left: 0;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 800;
+  color: #ffffff;
+  font-size: 26px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+.restoran-home .text-wrapper-8:hover{
+  color: rgb(155, 154, 154);
+  transform: scale(1.1);
+}
+
+
+.restoran-home .text-wrapper-9 {
+  width: 72px;
+  left: 258px;
+  position: absolute;
+  top: 0;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+.restoran-home .text-wrapper-9:hover{
+  color: rgb(155, 154, 154);
+  transform: scale(1.1);
+}
+
+.restoran-home .text-wrapper-10 {
+  width: 103px;
+  left: 390px;
+  position: absolute;
+  top: 0;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+.restoran-home .text-wrapper-10:hover{
+  color: rgb(155, 154, 154);
+  transform: scale(1.1);
+}
+
+.restoran-home .text-wrapper-11 {
+  width: 77px;
+  left: 553px;
+  position: absolute;
+  top: 0;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+.restoran-home .text-wrapper-11:hover{
+  color: rgb(155, 154, 154);
+  transform: scale(1.1);
+}
+.restoran-home .text-wrapper-12 {
+  width: 74px;
+  left: 690px;
+  position: absolute;
+  top: 0;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+.restoran-home .text-wrapper-12:hover{
+  color: rgb(155, 154, 154);
+  transform: scale(1.1);
+}
+
+.restoran-home .text-wrapper-13 {
+  position: absolute;
+  width: 90px;
+  top: 0;
+  left: 824px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+.restoran-home .text-wrapper-13:hover{
+  color: rgb(155, 154, 154);
+  transform: scale(1.1);
+}
+
+.restoran-home .logo {
+  position: absolute;
+  width: 93px;
+  height: 65px;
+  top: 0;
+  left:0;
+  object-fit: cover;
+}
+
+.restoran-home .view-2 {
+  position: absolute;
+  width: 23px;
+  height: 16px;
+  top: 31px;
+  left: 1349px;
+  transform: rotate(41.03deg);
+}
+
+.restoran-home .overlap-6 {
+  position: relative;
+  width: 24px;
+  height: 16px;
+}
+.restoran-home .overlap-6:hover{
+  color: rgb(155, 154, 154);
+  transform: scale(1.1);
+}
+
+.restoran-home .ellipse {
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  top: 0;
+  left: 0;
+  border-radius: 7.76px;
+  border: 3px solid;
+  border-color: #ffffff;
+}
+
+.restoran-home .line {
+  position: absolute;
+  width: 8px;
+  height: 7px;
+  top: 4px;
+  left: 15px;
+  transform: rotate(-41.03deg);
+}
+
+.restoran-home .overlap-7 {
+  position: absolute;
+  width: 1440px;
+  height: 801px;
+  top: 90px;
+  left: 0;
+  background-image: url(./img/background-1.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.restoran-home .element-11 {
+  position: absolute;
+  width: 443px;
+  height: 248px;
+  top: 175px;
+  left: 49px;
+}
+
+.restoran-home .text-wrapper-14 {
+  width: 439px;
+  top: 0;
+  left: 0;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 86px;
+  position: absolute;
+  font-family: "Montserrat", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.restoran-home .text-wrapper-15 {
+  width: 422px;
+  top: 177px;
+  left: 0;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 20px;
+  position: absolute;
+  font-family: "Montserrat", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.restoran-home .view-3 {
+  position: absolute;
+  width: 322px;
+  height: 63px;
+  top: 485px;
+  left: 49px;
+}
+
+.restoran-home .overlap-8 {
+  position: relative;
+  width: 320px;
+  height: 63px;
+  background-color: #20243d;
+  border-radius: 30px;
+  transition: background-color 0.3s ease; 
+}
+.restoran-home .overlap-8:hover {
+  background-color: #2e325a; 
+}
+
+.restoran-home .text-wrapper-16 {
+  width: 126px;
+  top: 21px;
+  left: 97px;
+  position: absolute;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.restoran-home .element-12 {
+  position: absolute;
+  width: 162px;
+  height: 32px;
+  top: 916px;
+  left: 260px;
+}
+
+.restoran-home .element-13 {
+  position: absolute;
+  width: 33px;
+  height: 162px;
+  top: 1127px;
+  left: 1387px;
+}
+
+.restoran-home .image-3 {
+  position: absolute;
+  width: 126px;
+  height: 143px;
+  top: 891px;
+  left: 1314px;
+  object-fit: cover;
+}
+
+.restoran-home .element-14 {
+  position: absolute;
+  width: 123px;
+  height: 163px;
+  top: 1307px;
+  left: 0;
+  object-fit: cover;
+}
+
+.restoran-home .image-4 {
+  position: absolute;
+  width: 99px;
+  height: 46px;
+  top: 1470px;
+  left: 1341px;
+  object-fit: cover;
+}
+
+.restoran-home .rolls-3 {
+  width: 256px;
+  height: 255px;
+  top: 1182px;
+  left: 196px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.restoran-home .element-15 {
+  position: absolute;
+  width: 645px;
+  height: 150px;
+  top: 986px;
+  left: 434px;
+}
+
+.restoran-home .text-wrapper-17 {
+  position: absolute;
+  width: 338px;
+  top: 0;
+  left: 151px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 44px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.restoran-home .text-wrapper-18 {
+  width: 641px;
+  top: 103px;
+  left: 0;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 20px;
+  text-align: center;
+  position: absolute;
+  font-family: "Montserrat", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.restoran-home .rolls-4 {
+  width: 256px;
+  height: 255px;
+  top: 1181px;
+  left: 587px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.restoran-home .popular {
+  position: absolute;
+  width: 256px;
+  height: 255px;
+  top: 1181px;
+  left: 978px;
+  object-fit: cover;
+}
+
+.restoran-home .view-4 {
+  position: absolute;
+  width: 299px;
+  height: 90px;
+  top: 1465px;
+  left: 176px;
+}
+
+.restoran-home .text-wrapper-19 {
+  width: 109px;
+  top: 0;
+  left: 93px;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 20px;
+  text-align: center;
+  position: absolute;
+  font-family: "Montserrat", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.restoran-home .text-wrapper-20 {
+  position: absolute;
+  width: 295px;
+  top: 53px;
+  left: 0;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 15px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.restoran-home .view-5 {
+  position: absolute;
+  width: 299px;
+  height: 89px;
+  top: 1465px;
+  left: 568px;
+}
+
+.restoran-home .text-wrapper-21 {
+  width: 113px;
+  top: 0;
+  left: 90px;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 20px;
+  text-align: center;
+  position: absolute;
+  font-family: "Montserrat", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.restoran-home .view-6 {
+  position: absolute;
+  width: 299px;
+  height: 90px;
+  top: 1464px;
+  left: 959px;
+}
+
+.restoran-home .text-wrapper-22 {
+  width: 106px;
+  top: 0;
+  left: 94px;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 20px;
+  text-align: center;
+  position: absolute;
+  font-family: "Montserrat", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.restoran-home .text-wrapper-23 {
+  width: 295px;
+  top: 54px;
+  left: 0;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 15px;
+  text-align: center;
+  position: absolute;
+  font-family: "Montserrat", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.restoran-home .overlap-9 {
+  position: absolute;
+  width: 1440px;
+  height: 790px;
+  top: 3984px;
+  left: 0;
+  background-image: url(./img/frazier-bg-1.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.restoran-home .rectangle-4 {
+  width: 1440px;
+  height: 790px;
+  top: 0;
+  background-color: #20243de3;
+  position: absolute;
+  left: 0;
+}
+
+.restoran-home .person {
+  position: absolute;
+  width: 262px;
+  height: 263px;
+  top: 150px;
+  left: 612px;
+  object-fit: cover;
+}
+
+.restoran-home .if-you-are-a {
+  position: absolute;
+  width: 772px;
+  top: 462px;
+  left: 385px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 30px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.restoran-home .text-wrapper-24 {
+  position: absolute;
+  width: 285px;
+  top: 592px;
+  left: 601px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.restoran-home .overlap-10 {
+  position: absolute;
+  width: 1440px;
+  height: 1593px;
+  top: 4775px;
+  left: 0;
+}
+
+.restoran-home .rectangle-5 {
+  width: 1440px;
+  height: 800px;
+  top: 0;
+  background-color: #ffd07e;
+  position: absolute;
+  left: 0;
+}
+
+.restoran-home .screenshot-8 {
+  width: 230px;
+  height: 185px;
+  top: 581px;
+  left: 646px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.restoran-home .group {
+  position: absolute;
+  width: 784px;
+  height: 60px;
+  top: 435px;
+  left: 330px;
+}
+
+.restoran-home .overlap-11 {
+  position: relative;
+  width: 780px;
+  height: 60px;
+  background-color: #ffffff;
+  border-radius: 50px;
+}
+
+.restoran-home .text-wrapper-25 {
+  position: absolute;
+  width: 109px;
+  top: 18px;
+  left: 44px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 300;
+  color: #0000009e;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.restoran-home .overlap-group-3 {
+  position: absolute;
+  width: 217px;
+  height: 60px;
+  top: 0;
+  left: 563px;
+  background-color: #20243d;
+  border-radius: 50px;
+}
+
+.restoran-home .text-wrapper-26 {
+  position: absolute;
+  width: 110px;
+  top: 18px;
+  left: 53px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 18px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.restoran-home .screenshot-9 {
+  width: 158px;
+  height: 259px;
+  top: 0;
+  left: 1282px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.restoran-home .rectangle-6 {
+  width: 1440px;
+  height: 794px;
+  top: 799px;
+  background-color: #000000;
+  position: absolute;
+  left: 0;
+}
+
+.restoran-home .text-wrapper-27 {
+  width: 175px;
+  top: 1038px;
+  left: 92px;
+  font-weight: 400;
+  color: #ffffffeb;
+  font-size: 24px;
+  position: absolute;
+  font-family: "Montserrat", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.restoran-home .view-7 {
+  position: absolute;
+  width: 611px;
+  height: 245px;
+  top: 1044px;
+  left: 737px;
+}
+
+.restoran-home .text-wrapper-28 {
+  position: absolute;
+  width: 82px;
+  top: 1px;
+  left: 0;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 400;
+  color: #ffffffeb;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.restoran-home .text-wrapper-29 {
+  position: absolute;
+  width: 150px;
+  top: 59px;
+  left: 0;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 400;
+  color: #ffffffeb;
+  font-size: 17px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.restoran-home .text-wrapper-30 {
+  position: absolute;
+  width: 150px;
+  top: 60px;
+  left: 229px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 400;
+  color: #ffffffeb;
+  font-size: 17px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.restoran-home .text-wrapper-31 {
+  position: absolute;
+  width: 150px;
+  top: 60px;
+  left: 429px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 400;
+  color: #ffffffeb;
+  font-size: 17px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.restoran-home .text-wrapper-32 {
+  position: absolute;
+  width: 150px;
+  top: 104px;
+  left: 429px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 400;
+  color: #ffffffeb;
+  font-size: 17px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.restoran-home .text-wrapper-33 {
+  position: absolute;
+  width: 150px;
+  top: 145px;
+  left: 429px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 400;
+  color: #ffffffeb;
+  font-size: 17px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.restoran-home .text-wrapper-34 {
+  top: 101px;
+  left: 229px;
+  position: absolute;
+  width: 150px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 400;
+  color: #ffffffeb;
+  font-size: 17px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.restoran-home .text-wrapper-35 {
+  width: 150px;
+  top: 143px;
+  left: 229px;
+  font-weight: 400;
+  color: #ffffffeb;
+  font-size: 17px;
+  white-space: nowrap;
+  position: absolute;
+  font-family: "Montserrat", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.restoran-home .text-wrapper-36 {
+  position: absolute;
+  width: 135px;
+  top: 188px;
+  left: 229px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 400;
+  color: #ffffffeb;
+  font-size: 17px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.restoran-home .text-wrapper-37 {
+  position: absolute;
+  width: 178px;
+  top: 229px;
+  left: 229px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 400;
+  color: #ffffffeb;
+  font-size: 17px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.restoran-home .text-wrapper-38 {
+  top: 100px;
+  left: 0;
+  position: absolute;
+  width: 150px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 400;
+  color: #ffffffeb;
+  font-size: 17px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.restoran-home .text-wrapper-39 {
+  position: absolute;
+  width: 177px;
+  top: 143px;
+  left: 0;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 400;
+  color: #ffffffeb;
+  font-size: 17px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.restoran-home .terms-condition {
+  position: absolute;
+  width: 189px;
+  top: 184px;
+  left: 0;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 400;
+  color: #ffffffeb;
+  font-size: 17px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.restoran-home .text-wrapper-40 {
+  position: absolute;
+  width: 189px;
+  top: 225px;
+  left: 0;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 400;
+  color: #ffffffeb;
+  font-size: 17px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.restoran-home .text-wrapper-41 {
+  position: absolute;
+  width: 110px;
+  top: 1px;
+  left: 229px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 400;
+  color: #ffffffeb;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.restoran-home .text-wrapper-42 {
+  position: absolute;
+  width: 78px;
+  top: 0;
+  left: 434px;
+  font-family: "Montserrat", Helvetica;
+  font-weight: 400;
+  color: #ffffffeb;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.restoran-home .lorem-ipsum-dolor-3 {
+  width: 391px;
+  top: 1096px;
+  left: 92px;
+  font-weight: 400;
+  color: #ffffffeb;
+  font-size: 17px;
+  position: absolute;
+  font-family: "Montserrat", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.restoran-home .screenshot-10 {
+  position: absolute;
+  width: 168px;
+  height: 65px;
+  top: 621px;
+  left: 100px;
+  object-fit: cover;
+}
+
+.restoran-home .screenshot-11 {
+  top: 56px;
+  left: 1029px;
+  position: absolute;
+  width: 168px;
+  height: 65px;
+  object-fit: cover;
+}
+
+.restoran-home .element-16 {
+  position: absolute;
+  width: 850px;
+  height: 175px;
+  top: 170px;
+  left: 297px;
+}
+
+.restoran-home .text-wrapper-43 {
+  width: 605px;
+  top: 0;
+  left: 111px;
+  font-weight: 700;
+  color: #20243d;
+  font-size: 52px;
+  text-align: center;
+  position: absolute;
+  font-family: "Montserrat", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.restoran-home .lorem-ipsum-dolor-4 {
+  width: 846px;
+  top: 118px;
+  left: 0;
+  font-weight: 400;
+  color: #20243d;
+  font-size: 21px;
+  text-align: center;
+  position: absolute;
+  font-family: "Montserrat", Helvetica;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.restoran-home .element-17 {
+  position: absolute;
+  width: 162px;
+  height: 60px;
+  top: 90px;
+  left: 100px;
+}
+
+.restoran-home .element-18 {
+  position: absolute;
+  width: 60px;
+  height: 162px;
+  top: 537px;
+  left: 1269px;
+}
+
+.restoran-home .image-5 {
+  position: absolute;
+  width: 233px;
+  height: 54px;
+  top: 1241px;
+  left: 92px;
+}
+.rolls-3 {
+  transition: transform 0.3s ease; /* добавляем плавный переход */
+}
+
+.rolls-3:hover {
+  transform: scale(1.2); /* увеличиваем масштаб при наведении */
+}
+.rolls-4 {
+  transition: transform 0.3s ease; /* Добавляем плавный переход */
+}
+
+.rolls-4:hover {
+  transform: scale(1.2); /* Увеличиваем масштаб при наведении */
+}
+.popular {
+  transition: transform 0.3s ease; /* Добавляем плавный переход */
+}
+
+.popular:hover {
+  transform: scale(1.2); /* Увеличиваем масштаб при наведении */
+}
+.rolls {
+  transition: transform 0.3s ease; /* Добавляем плавный переход */
+}
+
+.rolls:hover {
+  transform: scale(1.2); /* Увеличиваем масштаб при наведении */
+}
+.div-wrapper {
+  display: inline-block;
+  transition: transform 0.3s ease; /* добавляем плавный переход */
+}
+
+.div-wrapper:hover {
+  transform: scale(1.1); /* увеличиваем масштаб при наведении */
+}
+.element-6 {
+  width: 100px; /* Установи начальную ширину */
+  height: 100px; /* Установи начальную высоту */
+  transition: transform 0.3s ease; /* Добавляем плавный переход */
+}
+
+.element-6:hover {
+  transform: scale(1.1); /* Увеличиваем масштаб при наведении */
+}
+.element-STORE {
+  transition: transform 0.3s ease; /* Добавляем плавный переход */
+}
+
+.element-STORE:hover {
+  transform: scale(1.1); /* Увеличиваем масштаб при наведении */
+}
+.overlap-wrapper {
+  transition: transform 0.3s ease; /* Добавляем плавный переход */
+}
+
+.overlap-wrapper:hover {
+  transform: scale(1.1); /* Увеличиваем масштаб при наведении */
+}
+.element-7 {
+  transition: transform 0.3s ease; /* Добавляем плавный переход */
+}
+
+.element-7:hover {
+  transform: scale(1.1); /* Увеличиваем масштаб при наведении */
+}
+.view-7 a {
+  text-decoration: none; /* Убираем подчеркивание ссылок */
+  color: inherit; /* Используем цвет по умолчанию */
+  cursor: default; /* Убираем эффект указателя */
+}
+.view-7 .text-wrapper-28 a:hover,
+.view-7 .text-wrapper-29 a:hover,
+.view-7 .text-wrapper-30 a:hover,
+.view-7 .text-wrapper-31 a:hover,
+.view-7 .text-wrapper-32 a:hover,
+.view-7 .text-wrapper-33 a:hover,
+.view-7 .text-wrapper-34 a:hover,
+.view-7 .text-wrapper-35 a:hover,
+.view-7 .text-wrapper-36 a:hover,
+.view-7 .text-wrapper-37 a:hover,
+.view-7 .text-wrapper-38 a:hover,
+.view-7 .text-wrapper-39 a:hover,
+.view-7 .terms-condition a:hover,
+.view-7 .text-wrapper-40 a:hover,
+.view-7 .text-wrapper-41 a:hover,
+.view-7 .text-wrapper-42 a:hover {
+  /* Пример эффекта: изменение цвета фона и текста при наведении */
+  color: #333;
+  transition:  color 0.3s; /* Плавный переход */
+}
+.link-button {
+  display: inline-block;
+  text-decoration: none;
+}
+
+.overlap-group-2 {
+  transition: transform 0.3s ease; /* Добавляем плавный переход */
+}
+
+.overlap-group-2:hover {
+  transform: scale(1.1); /* Увеличиваем масштаб при наведении */
+}
+.rolls-2 {
+  transition: transform 0.3s ease; /* Добавляем плавный переход */
+}
+
+.rolls-2:hover {
+  transform: scale(1.1); /* Увеличиваем масштаб при наведении */
+}
+.person {
+  transition: transform 0.3s ease; /* Добавляем плавный переход */
+}
+
+.person:hover {
+  transform: scale(1.1); /* Увеличиваем масштаб при наведении */
+}
+.text-wrapper-25 {
+  width: 100%; /* Увеличиваем длину до максимальной ширины родительского элемента */
+  border: none; /* Убираем границы поля ввода */
+  outline: none; /* Убираем обводку при фокусе на поле */
+}
+.text-wrapper-26 {
+  transition: transform 0.3s ease; /* Добавляем плавный переход */
+}
+
+.text-wrapper-26:hover {
+  transform: scale(1.1); /* Увеличиваем масштаб при наведении */
+}
+
+.image-5 {
+  transition: transform 0.3s ease; /* Добавляем плавный переход */
+}
+
+.image-5:hover {
+  transform: scale(1.1); /* Увеличиваем масштаб при наведении */
+}
+
